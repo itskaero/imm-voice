@@ -8,10 +8,34 @@
    "minutes": 46
   },
   {
+   "chapter": "ch-10-2",
+   "file": "ch-10-2.voicepack",
+   "bytes": 15830579,
+   "minutes": 62
+  },
+  {
+   "chapter": "ch-10-3",
+   "file": "ch-10-3.voicepack",
+   "bytes": 14482454,
+   "minutes": 57
+  },
+  {
    "chapter": "ch-11-1",
    "file": "ch-11-1.voicepack",
    "bytes": 12001846,
    "minutes": 47
+  },
+  {
+   "chapter": "ch-11-2",
+   "file": "ch-11-2.voicepack",
+   "bytes": 20252116,
+   "minutes": 79
+  },
+  {
+   "chapter": "ch-11-3",
+   "file": "ch-11-3.voicepack",
+   "bytes": 7792772,
+   "minutes": 31
   },
   {
    "chapter": "ch-12-1",
@@ -50,10 +74,40 @@
    "minutes": 30
   },
   {
+   "chapter": "ch-14-3",
+   "file": "ch-14-3.voicepack",
+   "bytes": 24822860,
+   "minutes": 97
+  },
+  {
+   "chapter": "ch-15-1",
+   "file": "ch-15-1.voicepack",
+   "bytes": 15630817,
+   "minutes": 61
+  },
+  {
+   "chapter": "ch-15-2",
+   "file": "ch-15-2.voicepack",
+   "bytes": 19083148,
+   "minutes": 75
+  },
+  {
    "chapter": "ch-2-1",
    "file": "ch-2-1.voicepack",
    "bytes": 9610781,
    "minutes": 38
+  },
+  {
+   "chapter": "ch-2-2",
+   "file": "ch-2-2.voicepack",
+   "bytes": 11305208,
+   "minutes": 44
+  },
+  {
+   "chapter": "ch-2-3",
+   "file": "ch-2-3.voicepack",
+   "bytes": 11228349,
+   "minutes": 44
   },
   {
    "chapter": "ch-2-4",
@@ -62,10 +116,40 @@
    "minutes": 42
   },
   {
+   "chapter": "ch-2-5",
+   "file": "ch-2-5.voicepack",
+   "bytes": 14562222,
+   "minutes": 57
+  },
+  {
    "chapter": "ch-2-6",
    "file": "ch-2-6.voicepack",
    "bytes": 9348935,
    "minutes": 37
+  },
+  {
+   "chapter": "ch-3-1",
+   "file": "ch-3-1.voicepack",
+   "bytes": 13170898,
+   "minutes": 51
+  },
+  {
+   "chapter": "ch-3-2",
+   "file": "ch-3-2.voicepack",
+   "bytes": 18728284,
+   "minutes": 73
+  },
+  {
+   "chapter": "ch-3-3",
+   "file": "ch-3-3.voicepack",
+   "bytes": 18046333,
+   "minutes": 71
+  },
+  {
+   "chapter": "ch-4-1",
+   "file": "ch-4-1.voicepack",
+   "bytes": 16273102,
+   "minutes": 64
   },
   {
    "chapter": "ch-5-5",
@@ -86,6 +170,18 @@
    "minutes": 86
   },
   {
+   "chapter": "ch-6-2",
+   "file": "ch-6-2.voicepack",
+   "bytes": 15676010,
+   "minutes": 61
+  },
+  {
+   "chapter": "ch-6-3",
+   "file": "ch-6-3.voicepack",
+   "bytes": 10422860,
+   "minutes": 41
+  },
+  {
    "chapter": "ch-7-2",
    "file": "ch-7-2.voicepack",
    "bytes": 8729712,
@@ -104,10 +200,34 @@
    "minutes": 47
   },
   {
+   "chapter": "ch-8-2",
+   "file": "ch-8-2.voicepack",
+   "bytes": 11422217,
+   "minutes": 45
+  },
+  {
+   "chapter": "ch-8-3",
+   "file": "ch-8-3.voicepack",
+   "bytes": 10353147,
+   "minutes": 40
+  },
+  {
+   "chapter": "ch-8-4",
+   "file": "ch-8-4.voicepack",
+   "bytes": 10367608,
+   "minutes": 40
+  },
+  {
    "chapter": "ch-9-1",
    "file": "ch-9-1.voicepack",
    "bytes": 6375312,
    "minutes": 25
+  },
+  {
+   "chapter": "ch-9-2",
+   "file": "ch-9-2.voicepack",
+   "bytes": 9553437,
+   "minutes": 37
   }
  ]
 }
