@@ -2,6 +2,30 @@
  "voice": "af_heart",
  "packs": [
   {
+   "chapter": "ch-1-1",
+   "file": "ch-1-1.voicepack",
+   "bytes": 16398379,
+   "minutes": 64
+  },
+  {
+   "chapter": "ch-1-2",
+   "file": "ch-1-2.voicepack",
+   "bytes": 5483429,
+   "minutes": 21
+  },
+  {
+   "chapter": "ch-1-3",
+   "file": "ch-1-3.voicepack",
+   "bytes": 4834371,
+   "minutes": 19
+  },
+  {
+   "chapter": "ch-1-4",
+   "file": "ch-1-4.voicepack",
+   "bytes": 12842830,
+   "minutes": 50
+  },
+  {
    "chapter": "ch-10-1",
    "file": "ch-10-1.voicepack",
    "bytes": 11813743,
@@ -206,6 +230,12 @@
    "minutes": 86
   },
   {
+   "chapter": "ch-6-1",
+   "file": "ch-6-1.voicepack",
+   "bytes": 17772557,
+   "minutes": 70
+  },
+  {
    "chapter": "ch-6-2",
    "file": "ch-6-2.voicepack",
    "bytes": 15676010,
@@ -216,6 +246,12 @@
    "file": "ch-6-3.voicepack",
    "bytes": 10422860,
    "minutes": 41
+  },
+  {
+   "chapter": "ch-7-1",
+   "file": "ch-7-1.voicepack",
+   "bytes": 6456292,
+   "minutes": 25
   },
   {
    "chapter": "ch-7-2",
